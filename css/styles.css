@@ -5,6 +5,10 @@ body {
 }
 a {
   text-decoration: none;
+  margin: 0 10px 0 10px;
+}
+a:hover {
+  color: white;
 }
 hr {
   border-style: dotted none none none;
@@ -40,6 +44,8 @@ a {
 }
 .middle-container {
   background-color: #59C1F9;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 .bottom-container {
 background-color: #3E78FF;
